@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>990BA38F-AB50-4C60-91F6-2FCFBF608C34</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AMRatingControl</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9884A5BF-8881-4A3D-A0AD-F720D306C402</key>
+		<string>https://github.com/peng90/AMRatingControl.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AMRatingControl.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9884A5BF-8881-4A3D-A0AD-F720D306C402</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/peng90/AMRatingControl.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9884A5BF-8881-4A3D-A0AD-F720D306C402</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9884A5BF-8881-4A3D-A0AD-F720D306C402</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AMRatingControl</string>
+		</dict>
+	</array>
+</dict>
+</plist>
